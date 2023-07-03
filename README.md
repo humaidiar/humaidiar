@@ -1,5 +1,6 @@
-<h1 align="left">👋 Hi, I'm Humaidi Ridwan</h1>
-<h3 align="left">A Full Stack Developer based on Wellington, New Zealand</h3>
+
+<h1 align="center">👋 Hi, I'm Humaidi Ridwan</h1>
+<h3 align="center">A Full Stack Developer based on Wellington, New Zealand</h3>
 <br>
 
 
