@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1c2UiA9EFxNBnOhRmbRWdT74aHBAtqgTS/view)
 
-- ⚡ Fun fact **I roast own my coffee**
+- ⚡ Fun fact **I roast my own coffee**
 
 <br>
 
