@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Weather-Cast](https://github.com/humaidiar/weather-cast)
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and Typescript**
 
 - 📫 How to reach me **humaidiar123@gmail.com**
 
