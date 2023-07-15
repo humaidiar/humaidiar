@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [BuddyApp](https://github.com/Buddy-Ado-Estrella/Buddy-Web)
+- 🔭 I’m currently working on [Weather-Cast]([https://github.com/Buddy-Ado-Estrella/Buddy-Web](https://github.com/humaidiar/weather-cast))
 
 - 🌱 I’m currently learning **React and React Native**
 
