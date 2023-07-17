@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Humaidi Ridwan</h1>
-<h3 align="center">A Full Stack Developer based on Wellington, New Zealand</h3>
+<h3 align="center">Love coding and try new tech</h3>
 <br>
 
 
