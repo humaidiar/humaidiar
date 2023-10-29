@@ -4,9 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on [[healthypet_app](https://github.com/humaidiar/weather-cast)]
+- 🔭 I’m currently working on [healthypet_app](https://github.com/humaidiar/weather-cast)
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me **humaidiar123@gmail.com**
 
